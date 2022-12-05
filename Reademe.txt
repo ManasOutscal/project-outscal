@@ -1,0 +1,5 @@
+This is the info:
+Css folder has css for the website.
+Imgs folder has images rquired for the website.
+page folder has 846 individual job posting pages.
+and the other pages you are seeing are main pages.
